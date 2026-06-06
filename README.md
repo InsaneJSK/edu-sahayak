@@ -3,8 +3,7 @@
 > Empowering school children with personalized learning, interactive tools, and collaborative study experiences.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://edu-sahayak-sezf.vercel.app/)
-[![Demo Video](https://img.shields.io/badge/Source-GitHub-lightgrey?style=flat-square&logo=github)](https://www.youtube.com/watch?v=im_RhrmZs4o)
-
+[![Demo Video](https://img.shields.io/badge/Demo-Video-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=im_RhrmZs4o)
 ---
 
 ## 🎯 Vision
