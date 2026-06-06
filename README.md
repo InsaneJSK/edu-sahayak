@@ -2,8 +2,8 @@
 
 > Empowering school children with personalized learning, interactive tools, and collaborative study experiences.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://code4bharat.onrender.com/)
-[![GitHub Repo](https://img.shields.io/badge/Source-GitHub-lightgrey?style=flat-square&logo=github)](https://github.com/Nithin0620/code4bharat)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://edu-sahayak-sezf.vercel.app/)
+[![Demo Video](https://img.shields.io/badge/Source-GitHub-lightgrey?style=flat-square&logo=github)](https://www.youtube.com/watch?v=im_RhrmZs4o)
 
 ---
 
